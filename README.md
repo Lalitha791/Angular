@@ -1,3 +1,57 @@
+ Angular
+
+* **Angular** is a **TypeScript-based front-end framework** developed by Google.
+* It’s used to build **single-page applications (SPAs)** with structured, scalable, and maintainable code.
+* It follows the **component-based architecture**: everything is a component.
+
+---
+
+### ⚡ Key Features
+
+1. **Components** – building blocks of Angular apps.
+2. **Modules** – group related functionality.
+3. **Templates** – HTML + Angular syntax.
+4. **Data Binding** – one-way & two-way (`[(ngModel)]`).
+5. **Directives** – like `*ngIf`, `*ngFor` to change DOM behavior.
+6. **Services & Dependency Injection** – share data & logic across components.
+7. **Routing** – for navigation between views.
+8. **RxJS & Observables** – reactive programming support.
+9. **Forms** – template-driven & reactive forms.
+10. **CLI (Angular CLI)** – to generate, build, test, and deploy apps.
+
+---
+
+### 🚀 Angular Project Flow
+
+1. Install Angular CLI
+
+   ```bash
+   npm install -g @angular/cli
+   ```
+2. Create new project
+
+   ```bash
+   ng new my-app
+   ```
+3. Run the project
+
+   ```bash
+   ng serve -o
+   ```
+4. Build & deploy
+
+   ```bash
+   ng build --prod
+   ```
+
+---
+
+
+
+
+
+
+
 # Angular
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.4.
