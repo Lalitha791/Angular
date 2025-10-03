@@ -6,7 +6,7 @@
 
 ---
 
-### ⚡ Key Features
+ Key Features
 
 1. **Components** – building blocks of Angular apps.
 2. **Modules** – group related functionality.
@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 Angular Project Flow
+Angular Project Flow
 
 1. Install Angular CLI
 
